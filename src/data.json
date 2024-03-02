@@ -1,0 +1,32 @@
+{
+   "categories" : [
+    {
+      "name": "Breakfast",
+      "image":
+        "https://images.unsplash.com/photo-1538220856186-0be0e085984d?q=80&w=2863&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Dinner",
+      "image": "https://images.unsplash.com/photo-1601356616077-695728ae17cb?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Lunch",
+      "image": "https://images.unsplash.com/photo-1625943554275-826250826b2f?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Appetizer",
+      "image":
+        "https://images.unsplash.com/photo-1506280754576-f6fa8a873550?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Beverage",
+      "image":
+        "https://images.unsplash.com/photo-1610324566780-38beb64916dc?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Dessert",
+        "image":
+          "https://images.unsplash.com/photo-1597895139322-0a1ef77b3c30?q=80&w=2189&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+  ]
+}
