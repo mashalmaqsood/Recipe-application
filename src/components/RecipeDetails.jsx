@@ -22,7 +22,7 @@ const RecipeDetails = () => {
   return (
     <>
       {loading ? (
-        <div className="text-center">
+        <div className="mt-7 flex flex-wrap gap-4 justify-center">
           <img src={spinner} alt="loading" />
         </div>
       ) : (
